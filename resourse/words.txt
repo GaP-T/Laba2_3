@@ -1,0 +1,4 @@
+intel
+asus
+amd
+palit
